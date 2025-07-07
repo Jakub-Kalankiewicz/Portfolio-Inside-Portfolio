@@ -8,6 +8,8 @@
 # testing
 /coverage
 
+*-lock.json
+
 # next.js
 /.next/
 /out/
